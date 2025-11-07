@@ -1,6 +1,8 @@
 ## Buenas soy Ander 👋
 
-  <img src="logo.png" width="300" height="300" alt="Logo">
+  <p align="center">
+   <img src="logo.png" width="300" height="300" alt="Logo">
+</p>
 Soy desarrollador frontend apasionado por el baloncesto , los videojuegos y sobre todo la creacion de las paginas web.Me encanta crear webs con HTML CSS JS y aprender cosas nuevas cada día.
 
 ## 🧰 Tecnologías y herramientas
