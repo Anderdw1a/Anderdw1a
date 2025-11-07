@@ -2,7 +2,9 @@
   <p align="center">
    <img src="logo.png" width="300" height="300" alt="Logo">
 </p>
-Soy desarrollador frontend apasionado por el baloncesto , los videojuegos y sobre todo la creacion de las paginas web.Me encanta crear webs con HTML CSS JS y aprender cosas nuevas cada día.
+👋 Soy desarrollador frontend y me apasionan el baloncesto, los videojuegos y la creación de páginas web.
+Disfruto dar vida a ideas con HTML, CSS y JavaScript, y aprender algo nuevo cada día.
+No le tengo miedo al error: ¡forma parte del camino para mejorar!
 
 <h2 align="center">Tecnologías y Herramientas</h2>
 <div align="center">
@@ -20,5 +22,4 @@ Soy desarrollador frontend apasionado por el baloncesto , los videojuegos y sobr
 
 
 ## 🌐 Conéctate conmigo
-[![Portfolio](https://img.shields.io/badge/Portafolio-%23000000.svg?logo=firefox&logoColor=white)](https://github.com/Anderdw1a.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andergil.j@gmail.com)
