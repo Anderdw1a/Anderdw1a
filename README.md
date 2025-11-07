@@ -23,3 +23,8 @@ No le tengo miedo al error: ¡forma parte del camino para mejorar!
 
 ## 🌐 Conéctate conmigo
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andergil.j@gmail.com)
+
+
+
+
+> "🏀 “Programar es como el baloncesto: fallas, aprendes, ajustas... y al final encestas." – Ander Gil
