@@ -1,4 +1,4 @@
-## Buenas soy Ander 👋
+<p align="center">Buenas soy Ander 👋</p>
 
   <p align="center">
    <img src="logo.png" width="300" height="300" alt="Logo">
